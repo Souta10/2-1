@@ -1,5 +1,6 @@
-let box=document.getElementById(`box`);{
-    console.log(box)
+function myfunc() {
+    
+    let change = document.getElementById('box');
+
+    change.document.body.style.background = red;
 }
-
-
